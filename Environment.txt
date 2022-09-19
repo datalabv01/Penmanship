@@ -1,0 +1,1 @@
+We performed the experiments on TensorFlow-2 framework having Python 3.7.13 over an machine with the following configurations: Intel(R) Xeon(R) CPU @ 2.00GHz with 52 GB RAM and Tesla T4 16 GB GPU.
